@@ -1,4 +1,4 @@
-# 🐣 MochiBot — ESP32 Emotional Companion
+# 🐣 moshi — ESP32 Emotional Companion
 
 A small companion robot inspired by the **Dasai Mochi**, built with an **ESP32**, an **OLED display**, and **MQTT-based notifications**.
 
